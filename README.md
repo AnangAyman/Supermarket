@@ -1,7 +1,3 @@
-# YOUR PROJECT TITLE
-#### Video Demo:  <URL HERE>
-#### Description:
-
 # Point of Sale System Overview
 
 This project is a Point of Sale (POS) system for a fictional supermarket, "Ayman's Supermarket." The program allows users to sign up, log in, browse inventory, add items to their cart, and complete purchases. Additionally, it includes functionalities for managers to manage inventory, including adding, deleting, and changing the prices of items.
@@ -68,3 +64,5 @@ This project is a Point of Sale (POS) system for a fictional supermarket, "Ayman
 ## Future Improvements
 * Ensure the uniqueness of login codes.
 * Add more robust error handling and input validation.
+* Implement DBMS systems such as mySQL etc
+* Make a more user friendly GUI
