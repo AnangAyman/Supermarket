@@ -1,0 +1,11 @@
+Name,CreditCard,Email,LoginCode,TransactionAmount
+john doe,12345678901,john@example.com,123456,0
+jane doe,23456789012,jane@example.com,654321,100
+alice smith,34567890123,alice@example.com,111222,250
+bob brown,45678901234,bob@example.com,333444,75
+charlie davis,56789012345,charlie@example.com,555666,150
+diana evans,67890123456,diana@example.com,777888,50
+edward frank,78901234567,edward@example.com,999000,200
+fiona green,89012345678,fiona@example.com,123987,300
+george hill,90123456789,george@example.com,654789,400
+helen irwin,01234567890,helen@example.com,321654,125
